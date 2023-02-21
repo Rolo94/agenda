@@ -163,4 +163,13 @@ main {
     text-decoration: none;
 }
 
+.alert-success {
+    width: 100%;
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+
+
+
 /* End layout settings */
